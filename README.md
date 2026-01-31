@@ -54,4 +54,4 @@ The preprocessing is implemented as a step-by-step pipeline, with each notebook 
 - Clear separation between raw and processed data
 
 ## Purpose
-This project demonstrates how to build a **production-quality data preprocessing pipeline** before any machine learning is applied.
+This project reflects how preprocessing is handled in real-world ML workflows before modeling.
